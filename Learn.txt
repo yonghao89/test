@@ -2,5 +2,13 @@ Learn Git and GitHub without any code!
 Using the Hello World guide, you’ll create a repository, start a branch, write comments, and open a pull request.Learn Git and GitHub without any code!
 Using the Hello World guide, you’ll create a repository, start a branch, write comments, and open a pull request.Learn Git and GitHub without any code!
 Using the Hello World guide, you’ll create a repository, start a branch, write comments, and open a pull request.Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll create a repository, start a branch, write comments, and open a pull request.Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll create a repository, start a branch, write comments, and open a pull request.
+Using the Hello World guide, you’ll create a repository, start a branch, write comments, and open a pull request.Learn Git and GitHub 
+
+Make and commit changes
+Click the README.md file.
+Click the  pencil icon in the upper right corner of the file view to edit.
+In the editor, write a bit about yourself.
+Write a commit message that describes your changes.
+Click Commit changes button.
+换一换 搜索热点 1日本最帅男高中生新
+一分钟速览：2018年，健全党和国家监督体系有哪些大动作？
